@@ -71,7 +71,7 @@ def extraction_pipeline(input_path, model)->(None):
     """
     session_time, session_path, log = begin_session()
     
-    print("__________[SBA Hotline - spaCy Entity Extraction Engine]____________")
+    print("__________[XYZ Hotline - spaCy Entity Extraction Engine]____________")
     print("="*68)
     print("")
     
